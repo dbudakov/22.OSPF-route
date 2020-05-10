@@ -34,7 +34,7 @@ exit
 ```
 [root@r1 vagrant]# ping 10.0.0.2 -c 1
 ```
-![logo1] ![logo2] ![logo3]
+![logo4] ![logo5] ![logo6]
 
 [logo1]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R1_asymmetry_route.png
 [logo2]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R2_asymmetry_route.png
