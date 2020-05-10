@@ -1,3 +1,7 @@
+
+### Решение
+![logo7]
+
 В работе используются loopback адреса, которые совпадают с ROuter-ID и настроены чезез ospf.
 ```
 R1: 10.0.0.1
@@ -48,3 +52,4 @@ exit
 [logo4]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R1_symmetry_route.png
 [logo5]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R1_symmetry_route.png
 [logo6]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R1_symmetry_route.png
+[logo7]: https://github.com/dbudakov/22.route/blob/master/image/scheme/route.jpg
