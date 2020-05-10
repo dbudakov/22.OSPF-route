@@ -48,9 +48,6 @@ Vagrant.configure("2") do |config|
           ansible.playbook = "playbooks/ospf.yml"
           ansible.become = "true"
 	      end
-	      box.vm.provision "shell", inline: <<-SHELL
-               telinit 6
-        SHELL
       end
     end
 end
