@@ -10,7 +10,7 @@ clear && echo "hostname:$(hostname)" && tcpdump -i eth[N] icmp
 
 вывод трафика icmp на интерфейсах R1
 ![logo1]
-
+![logo2]
 
 [logo1]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R1_asymmetry_route.png
 [logo2]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R2_asymmetry_route.png
