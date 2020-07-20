@@ -66,3 +66,9 @@ exit
 [logo5]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R1_symmetry_route.png
 [logo6]: https://github.com/dbudakov/22.route/blob/master/image/asymmetry_route/R1_symmetry_route.png
 [logo7]: https://github.com/dbudakov/22.route/blob/master/image/scheme/route.jpg
+
+Дополнительно:  
+Узнать шлюз для адреса  
+```
+ip route get 192.168.100.101 
+```
