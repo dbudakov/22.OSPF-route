@@ -72,3 +72,5 @@ exit
 ```
 ip route get 192.168.100.101 
 ```
+
+Ответы на вопросы лекции [здесь](https://github.com/dbudakov/22.OSPF-route/blob/master/answers.md)  
